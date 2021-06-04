@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.homebutton {
+    text-decoration: none;
+}
+
+.homebutton:hover, .homebutton:link, .homebutton:visited, .homebutton:active {
+    text-decoration: none;
+}
+
+.cancelbutton {
+    background: #ef6e0b;
+    color: white;
+    font-weight: 400;
+    padding: 9px 9px 9px 9px;
+    font-size: 1rem;
+    border-radius: .25rem;
+    text-decoration: none;
+}
+
+.confirmbutton {
+    background: #198754;;
+    color: white;
+    font-weight: 400;
+    padding: 9px 9px 9px 9px;
+    font-size: 1rem;
+    border-radius: .25rem;
+    text-decoration: none;
+}
+
+.autobutton {
+    text-decoration: none;
+    color: black;
+}
+
+.editcarbutton {
+    background: #0dcaf0;
+    color: white;
+    font-weight: 400;
+    padding: 9px 9px 9px 9px;
+    font-size: 1rem;
+    border-radius: .25rem;
+    text-decoration: none;
+}
+
+.deletecarbutton {
+    background: #0d6efd;
+    color: white;
+    font-weight: 400;
+    padding: 9px 9px 9px 9px;
+    font-size: 1rem;
+    border-radius: .25rem;
+    text-decoration: none;
+}
+
